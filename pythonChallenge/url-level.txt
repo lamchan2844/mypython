@@ -1,0 +1,12 @@
+
+level 0
+que : http://www.pythonchallenge.com/pc/def/0.html
+aws : http://www.pythonchallenge.com/pc/def/274877906944.html
+
+level 1
+que : http://www.pythonchallenge.com/pc/def/map.html
+ans : http://www.pythonchallenge.com/pc/def/ocr.html
+
+level 2
+que : http://www.pythonchallenge.com/pc/def/ocr.html
+ans : http://www.pythonchallenge.com/pc/def/equality.html
